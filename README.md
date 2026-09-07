@@ -5,6 +5,10 @@ A 3D-printable magnetic door holder with a rotating arm(using single revovle axi
 Heres the link:https://cad.onshape.com/documents/297e3fada442dcd51cc3cdf3/w/4dfb4eaeadefd48209fbeabe/e/9e0e69d82804567533328729?renderMode=0&uiState=6a556b9ab7b8fa94546f9ea7
 
 <img width="548" height="503" alt="image" src="https://github.com/user-attachments/assets/b8b66f18-22c4-4633-b8e7-ddd364c0c514" />
+<img width="876" height="657" alt="image" src="https://github.com/user-attachments/assets/a97ad72c-d376-4224-ba6f-e38c73741bcf" />
+<img width="876" height="657" alt="image" src="https://github.com/user-attachments/assets/93a0f32a-f94d-441d-bbd2-dace7950af9a" />
+<img width="493" height="657" alt="image" src="https://github.com/user-attachments/assets/a8101e50-aafc-475f-8e2a-217615af9cb6" />
+
 
 This is a door holder, which fits for a metal door, and behind it there should be another door. In the picture theres a clip which holds onto the door behind the metal door, and it holds onto it as support. There's also a hand which ha a single revovle axis mechanism as seen by the 2 cylinders, and has a hand which has a hole which could hold a magnet.
 
