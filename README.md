@@ -11,3 +11,7 @@ This is a door holder, which fits for a metal door, and behind it there should b
 Feature: Has a magnet able to hold the metal door, single revovle axis, and 3d printed.
 
 How to Print: Print as normal, just assembling after print is the hard part. First take a cylinder and put the hand over the clinyder alligning the 0.3in hole, then put the other cylinder on top, and when fully alligned insert the hinge pin into the hole. If need use the power of glue to hold everything together. *FYI* DO NOT GLUE THE HAND IN PLACE, ONLY THE CYLINDERS, this is because the hand will get stuck in one place, and if you do glue the hand then removing is going to be a pain. So do the process with caution.  Next take out the clip, and glue the parts of the cylinders to the side of the clip, and there you go. If needed you could adjust anything just incase. 
+
+
+What I would do differently:
+To start off, I would say you could probally upgrade this by adding another features on top of a door handle such as a step door opener(the small u shaped item which people can drag with thier feet to open the door), or try to add something different and make it special for youself. Also REMBER ALL PARTS SHOULD BE PRINTED, if not then it is going to mess up the project. Thats why my final project is imporvised with popsicile sticks and hot glue.
