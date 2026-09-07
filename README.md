@@ -6,6 +6,7 @@ Heres the link:https://cad.onshape.com/documents/297e3fada442dcd51cc3cdf3/w/4dfb
 
 <img width="548" height="503" alt="image" src="https://github.com/user-attachments/assets/b8b66f18-22c4-4633-b8e7-ddd364c0c514" />
 <img width="876" height="657" alt="image" src="https://github.com/user-attachments/assets/a97ad72c-d376-4224-ba6f-e38c73741bcf" />
+<img width="876" height="657" alt="image" src="https://github.com/user-attachments/assets/c317df4b-9577-46f7-b168-1775f0875539" />
 <img width="876" height="657" alt="image" src="https://github.com/user-attachments/assets/93a0f32a-f94d-441d-bbd2-dace7950af9a" />
 <img width="493" height="657" alt="image" src="https://github.com/user-attachments/assets/a8101e50-aafc-475f-8e2a-217615af9cb6" />
 
